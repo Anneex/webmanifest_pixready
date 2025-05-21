@@ -43,8 +43,8 @@
       "type": "image/svg+xml"
     },
     {
-      "src": "https://cdn.prod.website-files.com/64a483b190bfff9cdf96e8c8/682d9fd80e37745a97e1df07_favicon%20(2).ico",
-      "sizes": "32x32",
+      "src": "https://anneex.github.io/webmanifest_pixready/favicon.ico",
+      "sizes": "16x16 32x32 48x48 64x64",
       "type": "image/x-icon"
     }
   ],
